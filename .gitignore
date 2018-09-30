@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+data/
+images/
+old/
+pipeline/
+testResult/
+testResult_old/
+*~
+
